@@ -1,5 +1,3 @@
-# primero1
-web personal
 <!DOCTYPE html>
 <html>
     <head>
